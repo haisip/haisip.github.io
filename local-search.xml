@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>text_md</title>
-    <link href="/2023/05/19/text-md/"/>
-    <url>/2023/05/19/text-md/</url>
+    <title>test_md</title>
+    <link href="/2023/05/19/test-md/"/>
+    <url>/2023/05/19/test-md/</url>
     
-    <content type="html"><![CDATA[<p>for test</p><p><code>hexo d -g</code> for release and git push</p>]]></content>
+    <content type="html"><![CDATA[<p>HEXO command</p><p><code>hexo d -g</code> for release and git push</p>]]></content>
     
     
     
